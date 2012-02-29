@@ -1,4 +1,12 @@
+// Start node
+heroku run node web.js --app fireweb
+
+// View Logs
+heroku logs --app fireweb
+
 # README for a newly created project.
+
+
 
 There are a couple of things you should do first, before you can use all of Git's power:
 
